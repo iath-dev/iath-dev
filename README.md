@@ -67,6 +67,11 @@ Ingeniero Multimedia especializado en **Inteligencia Artificial** y **Seguridad 
 
 - **Ingeniero Multimedia**  
   _Universidad Autónoma de Occidente_ (2019)
+  
+## 🌐 Portafolio
+Mira mis proyectos y trabajos en línea:  
+
+[![Portafolio](https://img.shields.io/badge/Portfolio-Visitar-blue?style=for-the-badge&logo=firefox)](https://danielneira-developer.vercel.app/)
 
 ## 🌐 Conecta Conmigo
 
